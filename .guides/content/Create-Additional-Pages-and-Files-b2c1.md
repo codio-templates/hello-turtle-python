@@ -5,7 +5,7 @@ Instruction through Codio is built around the guides feature. This is a brief de
 ---
 Please note that there are softwares, files, scripts, etc. preconfigured in this **Hello Turtle in Python** Starter Pack that allow for use of turtle in Python. Please see the [documentation]() that explains how to build Turtle Graphics in assignments with Python from scratch.  
 
-* `bg.sh` file is a Bash script that allows for efficient operations on multiple files in the command line. 
+* `bg.sh` file is a Bash script in the `.guides` folder that allows for efficient operations on multiple files in the command line. 
 * `X server` is a software downloaded to allow for the functionality of the preview in panel 1.
 
 Follow the directions below to build out this project with your own activities in turtle:
@@ -52,3 +52,4 @@ You can add this project as an assignment to an existing course:
 3. To import a project, click the **Click here** link under **Starting Point.** 
 4. Click **Copy Project** and browse to the project and select it.
 5. Click **Create.**
+6. **Publish** the assignment so that it can be viewed by students in your course.
