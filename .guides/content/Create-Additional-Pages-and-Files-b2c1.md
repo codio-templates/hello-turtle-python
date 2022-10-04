@@ -3,10 +3,11 @@ Instruction through Codio is built around the guides feature. This is a brief de
 
 ### Build on this Starter Pack
 ---
-Please note that there are softwares, files, scripts, etc. preconfigured in this **Hello Turtle in Python** Starter Pack that allow for use of turtle in Python. Please see the [documentation]() that explains how to build Turtle Graphics in assignments with Python from scratch.  
+Please note that there is software, files, scripts, etc. preconfigured in this **Hello Turtle in Python** Starter Pack that allow for use of turtle in Python.   
 
 * `bg.sh` file is a Bash script in the `.guides` folder that allows for efficient operations on multiple files in the command line. 
-* `X server` is a software downloaded to allow for the functionality of the preview in panel 1.
+* `X server` is software downloaded to allow for the functionality of the preview in panel 1.
+* `turtle.cfg` contains the coordinates for the starting location of the turtle window in the pane.
 
 Follow the directions below to build out this project with your own activities in turtle:
 
@@ -29,7 +30,7 @@ turtle.mainloop()
 Each page in the guide can have its own layout. You can select how many panels you want, and what information goes in each panel. Click the wrench in the top-right corner of your guide. When setting up Turtle Graphics:
 * Under **Page**, select either *3 columns* or *3 panels* with or without a tree.
 * Under **Open Tabs** drag in your `.py` file and position it in panel 0. 
-* Press the **Add Tab** button and specifiy the type as **Preview.** Paste the following in the URL field: `https://{{domain3000}}/`. Position it in panel 1. 
+* Press the **Add Tab** button and specifiy the type as **Preview.** Paste the following in the URL field: `https://{{domain3050}}/`. Position it in panel 1. 
 
 ![Open Tabs](.guides/img/opentabslayout.png)
 
